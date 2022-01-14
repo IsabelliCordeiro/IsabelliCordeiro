@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 - 🌱 Estudando Front End
 - 😄 Pronomes: ela/dela
@@ -15,6 +15,5 @@
   <img align="center" alt="Isa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
   <div>
-    <a href = "mailto:bellicords@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
      <a href="https://www.linkedin.com/in/isabelli-santos-34753a1b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
